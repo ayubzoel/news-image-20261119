@@ -351,6 +351,7 @@ MAP_PIN_DISPLAY = {
     30: (224, 44),
     32: (140, 40),
     35: (20, 110),
+    37: (72, 76),  # Mexico City true spot is on a ~10px-wide coast strip; display on land in N-central Mexico, leader to true spot
 }
 
 # USA inset projection: continental US, lon -125..-66, lat 24..50.
